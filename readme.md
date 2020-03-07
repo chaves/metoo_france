@@ -14,3 +14,5 @@ Avec un focus sur les transports.
 7. 25 Sept 2019 : Sandra Muller : Condamnée pour diffamation
 8. 03 Oct 2019 : L’actrice Adèle Haenel accuse le réalisateur Christophe Ruggia d’harcèlement sexuel
 9. 07 Nov 2019 : Des accusations dans des plateaux télévisés
+
+Merci à **[@AbirJaza](https://github.com/AbirJaza)** pour ton aide.
