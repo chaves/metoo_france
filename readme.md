@@ -1,7 +1,7 @@
 # Exploration sur le mouvement MeeToo en France sur Twitter
 Avec un focus sur les transports.
 
-![Topic transports](/images/intro.png)
+![Topic transports](/images/intro2.png)
 
 ![Topic transports](/images/timeline.png)
 
