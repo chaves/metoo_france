@@ -1,5 +1,7 @@
 # Exploration sur le mouvement MeeToo en France sur Twitter
-Avec un focus sur les transports.
+
+- Avec un focus sur les transports.
+- Modélisation thématique fondée sur l'implémentation **[Mallet](http://mallet.cs.umass.edu/topics.php)** du modèle LDA (Latent Dirichlet Allocation).
 
 ![Topic transports](/images/intro2.png)
 
