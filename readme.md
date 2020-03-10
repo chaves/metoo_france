@@ -1,6 +1,9 @@
 # Exploration sur le mouvement MeToo en France sur Twitter
 
-- Avec un focus sur les transports.
+Avec un focus sur les transports.
+- Le 13 octobre 2017 : 1er tweet #BalanceTonPorc
+- Données : 1er octobre 2017 à 28 novembre 2019 avec les hashtags : #BalanceTonPorc + #Metoo
+199 827 tweets collectés
 - Modélisation thématique fondée sur l'implémentation **[Mallet](http://mallet.cs.umass.edu/topics.php)** du modèle LDA (Latent Dirichlet Allocation).
 
 ![Topic transports](/images/intro2.png)
